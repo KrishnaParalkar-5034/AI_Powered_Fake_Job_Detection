@@ -1,7 +1,7 @@
 🕵️‍♂️ AI Powered Fake Job Posting Detection System
 
 🚀 **Live Now** – SHAP, LIME Added | ✅ Streamlit Web App Deployed
-App link🔗 - https://fake-job-detection-nlp.streamlit.app
+App link🔗 - (http://localhost:8501/)
 
 This project focuses on detecting **fake job postings** using **Natural Language Processing (NLP)** and **Machine Learning**. Built as an end-to-end text classification system, it analyzes job listings and classifies them as real or fake using a Logistic Regression model on TF-IDF-transformed data.
 
